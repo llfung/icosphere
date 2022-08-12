@@ -1,4 +1,7 @@
 # icosphere
+
+[![View icosphere (with frequency or recursive subdivision) on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://uk.mathworks.com/matlabcentral/fileexchange/116225-icosphere-with-frequency-or-recursive-subdivision)
+
 Creating a Class I geodesic icosahedron of unit radius through subdivision.
 
 This MATLAB script contains options to choose two different starting regular icosahedron at different rotation angles, and two different subdivision algorithms.
@@ -18,3 +21,4 @@ This script is inspired by
 - [C# code by Andres Kahler](http://blog.andreaskahler.com/2009/06/creating-icosphere-mesh-in-code.html)
 - [MATLAB code by Wil O.C. Ward](https://uk.mathworks.com/matlabcentral/fileexchange/50105-icosphere)
 - [Python Geodesic Icosphere package by vedranaa](https://github.com/vedranaa/icosphere)
+
