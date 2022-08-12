@@ -7,7 +7,7 @@ This MATLAB script contains options to choose two different starting regular ico
 
 `[V,F] = icosphere(N);` generates to matrices containing vertices `V` and faces `F` in the form of rowID in `V`, with each edge subdivided into `N` equal segments.
 
-Use `patch('Faces',F,'Vertices',V);` to plot the resulting sphere.
+Use `trimesh(icosphere(N));axis equal;` to plot the resulting sphere.
 
 ## Geodesic Notation
 This script generates a $$\{3,5+\}_{(n,0)}$$ [geodesic polyhedron](https://en.wikipedia.org/wiki/Geodesic_polyhedron).
