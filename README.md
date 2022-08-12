@@ -10,7 +10,7 @@ This MATLAB script contains options to choose two different starting regular ico
 Use `trimesh(icosphere(N));axis equal;` to plot the resulting sphere.
 
 ## Geodesic Notation
-This script generates a $$\{3,5+\}_{(n,0)}$$ [geodesic polyhedron](https://en.wikipedia.org/wiki/Geodesic_polyhedron).
+This script generates a $\{3,5+\}_{(n,0)}$ [geodesic polyhedron](https://en.wikipedia.org/wiki/Geodesic_polyhedron).
 
 ## References
 This script is inspired by 
